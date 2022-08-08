@@ -1,6 +1,6 @@
 ## Olá! Eu sou o JEAN!
 
-💻 Estudante de Defesa Ciberbética e Desenvolvedor Front-end Trainee.
+💻 Estudante de ADS e Desenvolvedor Front-end Trainee.
 
 <div align="center">
   <a href="https://github.com/jeanziiin">
