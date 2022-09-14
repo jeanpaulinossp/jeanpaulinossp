@@ -1,6 +1,6 @@
-## Olá! Eu sou o JEAN!
+## Hello! Welcome to my GitHub!
 
-💻 Estudante de ADS e Desenvolvedor Front-end Trainee.
+💻 I'm a Analysis and Systems Development student and Frontend Developer.
 
 <div align="center">
   <a href="https://github.com/jeanpaulinossp">
